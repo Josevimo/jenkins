@@ -1,7 +1,8 @@
 public class prueba{
     public void pruebajenkins(String s) {
         // Convertir a upercase
-        System.out.println (s.toUpperCase());
+        s="hola";
+        System.out.println ("hola");
 
     }
 }
