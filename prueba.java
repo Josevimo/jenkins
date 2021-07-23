@@ -1,5 +1,5 @@
 public class prueba{
-    public String pruebajenkins(String s) {
+    public void pruebajenkins(String s) {
         // Convertir a upercase
         System.out.println (s.toUpperCase());
 
